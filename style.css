@@ -13,3 +13,8 @@ a {
     padding-right: 30px;
     font-weight: 700;
 }
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
