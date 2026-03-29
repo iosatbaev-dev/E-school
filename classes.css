@@ -1,1 +1,15 @@
+.class-box {
+    display: inline-block;
+    font-family: sans-serif;
+    width: 350px;
+    margin: 10px;
+    padding: 25px;
+    border: 1px solid grey;
+    border-radius: 8px;
+    text-align: center;
+    border-bottom: 6px solid gray;
+}
 
+.our-classes {
+    text-align: center;
+}
